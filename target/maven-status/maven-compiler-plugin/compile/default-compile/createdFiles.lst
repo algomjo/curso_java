@@ -3,6 +3,12 @@ classe\Usuario.class
 classe\Equals.class
 colecoes\ConjuntoComportado.class
 colecoes\Fila.class
-colecoes\Usuario.class
 Exercicios.class
+colecoes\Hash.class
+colecoes\Pilha.class
 colecoes\ConjuntoBaguncado.class
+colecoes\Mapa.class
+oo\composicao\Carro.class
+oo\composicao\Motor.class
+colecoes\Usuario.class
+oo\composicao\CarroTeste.class
