@@ -6,9 +6,12 @@ colecoes\Fila.class
 Exercicios.class
 colecoes\Hash.class
 colecoes\Pilha.class
+oo\composicao\CompraTeste.class
 colecoes\ConjuntoBaguncado.class
+oo\composicao\Item.class
 colecoes\Mapa.class
 oo\composicao\Carro.class
 oo\composicao\Motor.class
+oo\composicao\Compra.class
 colecoes\Usuario.class
 oo\composicao\CarroTeste.class
